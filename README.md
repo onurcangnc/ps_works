@@ -1,10 +1,10 @@
+<div align="center">
+  <img src="ps.png" alt="Photoshop Logo" width="100px">
+</div>
+
 # Photoshop Repository
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-<div align="center">
-  <img src="ps.png" alt="Photoshop Logo" width="200px">
-</div>
 
 ## Description
 
