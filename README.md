@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="ps.png" alt="Photoshop Logo" width="100px">
+<div align="left">
+  <img src="ps.png" alt="Photoshop Logo" width="300px">
 </div>
 
 # Photoshop Repository
