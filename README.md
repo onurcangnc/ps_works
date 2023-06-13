@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="ps.png" alt="Photoshop Logo" width="500px">
-</div>
+</p>
 
 # Photoshop Repository
 
