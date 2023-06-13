@@ -26,4 +26,4 @@ Welcome to the Photoshop Repository! This repository is dedicated to showcasing 
 
 ## HowToAccess
 
-To access the Photoshop Repository, simply click the repository link and download files to your local machine.
+To access the Photoshop Repository, simply [Click here to access](https://github.com/onurcangnc/ps_works/tree/main/photoshop) the repository link and download files to your local machine.
