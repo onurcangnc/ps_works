@@ -21,7 +21,7 @@ Welcome to the Photoshop Repository! This repository is dedicated to showcasing 
 ## Features
 
 - **Project Showcase:** Browse through a collection of visually appealing Photoshop projects, including photo manipulations, graphic designs, illustrations, and more.
-- **Resources:** Adobe PS, freepik, envato elements and so on...
+- **Resources:** [Adobe PS](https://www.adobe.com), [freepik](https://www.freepik.com), [envato elements](https://elements.envato.com) and so on...
 - **Training:** I will add a variety of useful techniques that I learned on my courses.
 
 ## HowToAccess
