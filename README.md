@@ -14,9 +14,8 @@ Welcome to the Photoshop Repository! This repository is dedicated to showcasing 
 
 - [Features](#features)
 - [HowToAccess](#HowToAccess)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
+- [Description](#Description)
 
 ## Features
 
