@@ -2,6 +2,10 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+<div align="center">
+  <img src="ps.png" alt="Photoshop Logo" width="200px">
+</div>
+
 ## Description
 
 Welcome to the Photoshop Repository! This repository is dedicated to showcasing and sharing various Photoshop projects, resources, and techniques. Whether you're a beginner or an experienced Photoshop user, you'll find valuable assets and inspiration to enhance your design skills.
